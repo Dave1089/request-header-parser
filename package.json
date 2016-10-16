@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dave1089/request-header-parser/issues"
   },
-  "homepage": "https://github.com/Dave1089/request-header-parser#readme"
+  "homepage": "https://github.com/Dave1089/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
